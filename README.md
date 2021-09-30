@@ -1,2 +1,2 @@
 # swimlessbird.github.io
-blog
+blog: [click]()
